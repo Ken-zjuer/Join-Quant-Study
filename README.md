@@ -11,3 +11,5 @@ Codes about Quantitative strategy.
 2、Fama-French三因子https://mp.weixin.qq.com/s/vMY-by-q2nAd8-2Ke0_JSg
 
 3、单因子策略https://mp.weixin.qq.com/s/PjXsn1eWEc_8XcrA_GzEPQ
+
+4、市场风格轮动https://mp.weixin.qq.com/s/yTF0PP_CofQ9xrDbhaVSng
