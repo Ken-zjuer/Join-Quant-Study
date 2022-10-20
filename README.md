@@ -13,3 +13,5 @@ Codes about Quantitative strategy.
 3、单因子策略https://mp.weixin.qq.com/s/PjXsn1eWEc_8XcrA_GzEPQ
 
 4、市场风格轮动https://mp.weixin.qq.com/s/yTF0PP_CofQ9xrDbhaVSng
+
+5、行业轮动策略https://mp.weixin.qq.com/s/PcZ4iATndOa0AjxO9dQyKA
